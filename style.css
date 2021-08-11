@@ -1,0 +1,12 @@
+.jumbotron {
+  padding: 7rem 1rem;
+  background-color: rgb(249, 250, 202);
+}
+
+#gallery {
+  background-color: rgb(252, 240, 173);
+}
+
+section {
+  padding-top: 5rem;
+}
